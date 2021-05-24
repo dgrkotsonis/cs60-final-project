@@ -1,4 +1,5 @@
 # CS60, Final Project
+# George, Gabe, Boxian and Karim
 
 ## Blockchain
 
